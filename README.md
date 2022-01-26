@@ -1,5 +1,7 @@
 # deepracer-analysis
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3ed75288-f38f-4bc5-a6a2-5550db011522.svg?orgId=746053473389)](https://app.soluble.cloud/repos/details/github.com/acc-cloud-devops/deepracer-analysis?orgId=746053473389)  
+
 This is a set of notebooks and utilities to enable analysis of logs for AWS DeepRacer.
 
 This project is a redo of analysis solutions provided in the
